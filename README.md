@@ -19,7 +19,7 @@ features and goals of the Avogadro project:
 * Extensible, making extensive use of a plugin architecture
 * Flexible supporting a range of chemical data formats and packages
 
-<a><img src="https://www.openchemistry.org/wp-content/uploads/2014/04/OpenChemistry_Full_512.png" alt=Open Chemistry Logo width="363" height="195"></a>
+<a><img src="https://www.openchemistry.org/wp-content/uploads/2014/04/OpenChemistry_Full_512.png" alt=Open Chemistry Logo width="260" height="140"></a>
 ![Kitware, Inc.][KitwareLogo]
 
 Avogadro 2 is being developed as part of the [Open Chemistry][OpenChemistry]
